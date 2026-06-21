@@ -1,0 +1,10 @@
+﻿OrderedAt,ShippingStatus,CustomerID,AddressID,IsPaid
+1/15/2026,Delivered,1,5,TRUE
+3/10/2026,Shipped,2,3,FALSE
+11/17/2026,Delivered,5,1,TRUE
+4/8/2026,Shipped,4,4,TRUE
+1/19/2026,Shipped,3,2,FALSE
+9/29/2026,Delivered,6,6,FALSE
+7/13/2026,Shipped,7,3,TRUE
+10/1/2026,Delivered,9,2,FALSE
+12/16/2026,Delivered,8,5,TRUE

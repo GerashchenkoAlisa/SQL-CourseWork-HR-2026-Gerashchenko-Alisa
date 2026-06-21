@@ -1,0 +1,10 @@
+﻿FirstName,LastName,Email,Telephone,DefaultAddressID,PasswordHash
+John,Green,john.green@example.com,1234567890,1,simplepass
+Jane,Smith,jane.smith@example.com,987654321,2,S3cureP@ssw0rd!
+Alice,Johnson,alice.johnson@example.com,5551234567,3,Password123
+Bob,Black,bob.black@example.com,5559876543,4,qwerty
+Charlie,Brown,charlie.brown@example.com,5550001111,5,A1b2C3d4!
+Diana,Prince,diana.prince@example.com,5552223333,6,a1234567
+Ethan,White,ethan.white@example.com,5554445555,4,DifficultPass
+Fiona,Doe,fiona.doe@example.com,5556667777,1,ilovepizza
+George,Williams,george.williams@example.com,5558889999,5,JustA$imple1

@@ -1,0 +1,14 @@
+﻿SaleID,StatusChange,UpdateDate
+1,Cancelled,1/15/2026
+1,Processing,3/10/2026
+1,Shipped,11/17/2026
+1,Delivered,4/8/2026
+2,Cancelled,1/19/2026
+2,Processing,9/29/2026
+2,Shipped,7/13/2026
+3,Processing,10/1/2026
+4,Cancelled,12/16/2026
+4,Cancelled,1/15/2026
+4,Shipped,3/10/2026
+4,Delivered,11/17/2026
+5,Processing,4/8/2026

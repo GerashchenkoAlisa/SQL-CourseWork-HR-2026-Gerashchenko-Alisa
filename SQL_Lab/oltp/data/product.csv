@@ -1,0 +1,11 @@
+﻿PublicID,ProductName,Description,Price,Stock,SubcategoryID
+PRD-001,Smartphone XYZ,Latest model smartphone with amazing features,29.99,150,1
+PRD-002,Laptop ABC,High-performance laptop for gaming and work,49.99,80,2
+PRD-003,Men's T-Shirt ,Comfortable cotton t-shirt,59.99,120,3
+PRD-004,Women's Dress,Elegant dress for special occasions,79.99,60,4
+PRD-005,Blender,High-speed blender for smoothies,89.99,45,5
+PRD-006,Dining Table,Beautiful wooden dining table,129.99,30,6
+PRD-007,Best-Selling Novel,A gripping fiction novel that you won't put down,69.99,25,7
+PRD-008,Science Book,An insightful exploration of the universe,19.99,200,8
+PRD-009,Action Figure,Collectible action figure from popular series,69.99,70,9
+PRD-010,Board Game,Fun board game for family nights,44.99,55,10
